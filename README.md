@@ -38,6 +38,8 @@ Business Insights → Highlighted supply-demand mismatch and financial impact.
 📸 Dashboard Snapshots
 Business Optimization Metrics - 1
 
+<img width="1536" height="786" alt="Image" src="https://github.com/user-attachments/assets/78c084f9-674a-4a01-aa9a-f6ec56ce5ca5" />
+
 Business Optimization Metrics - 2
 
 🎯 Key Insights
