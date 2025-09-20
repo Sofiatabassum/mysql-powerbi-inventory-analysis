@@ -42,6 +42,8 @@ Business Optimization Metrics - 1
 
 Business Optimization Metrics - 2
 
+<img width="1524" height="772" alt="Image" src="https://github.com/user-attachments/assets/b9d5794c-0b56-40ce-9484-389d424c89d3" />
+
 🎯 Key Insights
 
 Average demand per day exceeds availability, resulting in supply shortage.
